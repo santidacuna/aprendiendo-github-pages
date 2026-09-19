@@ -19,3 +19,7 @@ Cada modificación que se incorpora a la rama `main` puede generar una nueva ver
 ## Repositorio
 
 Este sitio forma parte de una práctica de aprendizaje sobre GitHub Pages.
+
+## Más información
+
+[Sobre esta práctica](./sobre.html)
